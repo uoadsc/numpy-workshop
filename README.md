@@ -19,6 +19,6 @@ Let's begin!
 
 ## Take Home Exercise: Image Analysis
 * Download the space.jpg image from this repository.
-* Upload the space.jpg file to your project workspace.
+* Upload the space.jpg image to your project workspace.
 
 
