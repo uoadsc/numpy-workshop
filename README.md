@@ -1,4 +1,4 @@
-# Data Analysis with Numerical Python Workshop
+# Data Analysis with Numerical Python (NumPy) Workshop
 
 ## Requirements
 
